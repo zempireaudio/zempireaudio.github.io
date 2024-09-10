@@ -13,7 +13,7 @@
     "site_url": "index.html",
     "share_url": true,
     "watermark_text": " ",   
-    "watermark_text2": "ZEMPIREAUDIO",	
+    "watermark_text2": " ",	
     "watermark_image_url": "img/ZE.png", 
     "page_title": "ZE",   
     "page_description": "View and compare frequency response graphs for IEMs",
@@ -40,21 +40,24 @@
     "advanced": {
         "headerLinks": [
             {
-                "name": "Telegram",
-                 "url": "https://t.me/Anatolyi_Zempire"
+                "name": "Zempireaudio.com",
+                 "url": "https://Zempireaudio.com"
             },
 			{
-                "name": "GitHub",
-                 "url": "https://github.com/zempireaudio/zempireaudio.github.io"
+                "name": "Telegram",
+                 "url": "https://t.me/zempireaudio"
             },
+			{
+                "name": "Youtube",
+                 "url": "https://www.youtube.com/@ZEMIPREAUDIO"
+            },
+
+
             {
                 "name": "HiFiGuides",
                 "url": "https://forum.hifiguides.com/u/anatolyi_ze/"
-            },
-			{
-				"name": "Spotify",
-                "url": "https://open.spotify.com/user/9okpl6q6oy14633c43icsdylj?si=3693e3cf9dc34273"
-			}	
+            }
+			
         ],
         "footerLinks": [
             {
