@@ -1,12 +1,12 @@
 * Measurement data measured by REW V5.31.3
-* Source: EXCL: Микрофон (Realtek(R) Audio), MICROPHONE (Общая громкость), L, volume: 0,400
+* Source: EXCL: ГЊГЁГЄГ°Г®ГґГ®Г­ (Realtek(R) Audio), MICROPHONE (ГЋГЎГ№Г Гї ГЈГ°Г®Г¬ГЄГ®Г±ГІГј), L, volume: 0,400
 * Format: 512k Log Swept Sine, 1 sweep at -12,0 dBFS with no timing reference
 * Dated: 06.04.2025 11:09:03
 * REW Settings:
 *  C-weighting compensation: Off
 *  Target level: 75.0 dB
 * Note: 
-* Measurement: L+R апр 6
+* Measurement: L+R Г ГЇГ° 6
 * Smoothing: None
 * Frequency Step: 1/48 octave
 * Start Frequency: 20.300 Hz
